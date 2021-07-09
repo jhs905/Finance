@@ -1,2 +1,2 @@
-# Finance
-python study for financial analysis
+# finance
+python for financial analysis
